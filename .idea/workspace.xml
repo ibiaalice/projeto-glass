@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01d48ec5-a577-4316-9852-0aed5a5928bd" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_css/estilo.css" afterPath="$PROJECT_DIR$/_css/estilo.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,24 +16,41 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1447">
+            <state relative-caret-position="18">
               <caret line="41" column="38" lean-forward="false" selection-start-line="41" selection-start-column="38" selection-end-line="41" selection-end-column="38" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="estilo.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="estilo.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_css/estilo.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
+            <state relative-caret-position="547">
               <caret line="239" column="20" lean-forward="false" selection-start-line="239" selection-start-column="20" selection-end-line="239" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="testejs02.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testejs02.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="23" column="131" lean-forward="false" selection-start-line="23" selection-start-column="131" selection-end-line="23" selection-end-column="131" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -44,6 +60,9 @@
       <list>
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_css/estilo.css" />
+        <option value="$PROJECT_DIR$/_css/testejs01.html" />
+        <option value="$PROJECT_DIR$/_css/testejs02.html" />
+        <option value="$PROJECT_DIR$/testejs02.html" />
       </list>
     </option>
   </component>
@@ -90,11 +109,6 @@
             <path>
               <item name="projeto-glass" type="b2602c69:ProjectViewProjectNode" />
               <item name="projeto-glass" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="_fonts" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="projeto-glass" type="b2602c69:ProjectViewProjectNode" />
-              <item name="projeto-glass" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="_imagens" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
@@ -108,6 +122,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -135,12 +150,13 @@
       <workItem from="1514139155868" duration="39000" />
       <workItem from="1514484166140" duration="10571000" />
       <workItem from="1514836518539" duration="3057000" />
-      <workItem from="1514840264918" duration="6488000" />
+      <workItem from="1514840264918" duration="7596000" />
+      <workItem from="1514936224187" duration="3244000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23382000" />
+    <option name="totallyTimeSpent" value="27734000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="77" y="47" width="1299" height="743" extended-state="6" />
@@ -176,6 +192,22 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_css/estilo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4302">
+          <caret line="239" column="20" lean-forward="false" selection-start-line="239" selection-start-column="20" selection-end-line="239" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -227,7 +259,7 @@
     <entry file="file://$PROJECT_DIR$/_fonts/Indie-flower.ttf" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1447">
+        <state relative-caret-position="18">
           <caret line="41" column="38" lean-forward="false" selection-start-line="41" selection-start-column="38" selection-end-line="41" selection-end-column="38" />
           <folding />
         </state>
@@ -235,8 +267,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_css/estilo.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
+        <state relative-caret-position="547">
           <caret line="239" column="20" lean-forward="false" selection-start-line="239" selection-start-column="20" selection-end-line="239" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_css/testejs02.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_css/testejs01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="34" lean-forward="false" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testejs02.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="23" column="131" lean-forward="false" selection-start-line="23" selection-start-column="131" selection-end-line="23" selection-end-column="131" />
           <folding />
         </state>
       </provider>
